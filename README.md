@@ -8,6 +8,8 @@ You'll find most of the information you need [on our website](https://maintainer
 
 If you have private questions, email [richard@maintainer.io](mailto:richard@maintainer.io). 
 
+Join our [Slack Group](https://mntnr.slack.com/shared_invite/MTcxMDc5MTcxMjA1LTE0OTI1NDQ2OTQtYmMyZTc1N2Q2Ng)!
+
 ### Common Questions
 
 - Why is everything licensed by Burnt Fen Creative LLC?
