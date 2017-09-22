@@ -10,16 +10,6 @@ If you have private questions, email [richard@maintainer.io](mailto:richard@main
 
 Join our [Slack Group](https://mntnr.slack.com/shared_invite/MTcxMDc5MTcxMjA1LTE0OTI1NDQ2OTQtYmMyZTc1N2Q2Ng)!
 
-## Common Questions
-
-#### Why is everything licensed by Burnt Fen Creative LLC?
-
-That is [@RichardLitt](https://github.com/RichardLitt)'s shell company he uses for consulting services. Maintainer Mountaineer aims to some day be its own business, but for now, for licensing and invoicing purposes, Burnt Fen Creative is used. 
-
-#### Why are there so many forks?
-
-Maintainer.io policy is to fork repositories when we do public code and repository audits. If we have a fork here, that means we were contacted about auditing a repository. For Maintainer source repositories, you can see [this filter](https://github.com/mntnr?utf8=%E2%9C%93&q=&type=source&language=) on the @mntnr page.
-
 ## Resources
 
 Here are some awesome, related resources you can check out.
@@ -32,6 +22,22 @@ Developed elsewhere:
 - [Alex](https://github.com/wooorm/alex) Catch insensitive, inconsiderate writing. [Website](http://alexjs.com)
 - [Code Triage](https://github.com/codetriage/codetriage) Set up code triaging help for volunteers. _Assumes you have volunteers._
 
+
+## Common Questions
+
+#### Why is everything licensed by Burnt Fen Creative LLC?
+
+That is [@RichardLitt](https://github.com/RichardLitt)'s shell company he uses for consulting services. Maintainer Mountaineer aims to some day be its own business, but for now, for licensing and invoicing purposes, Burnt Fen Creative is used. 
+
+#### Why are there so many forks?
+
+Maintainer.io policy is to fork repositories when we do public code and repository audits. If we have a fork here, that means we were contacted about auditing a repository. For Maintainer source repositories, you can see [this filter](https://github.com/mntnr?utf8=%E2%9C%93&q=&type=source&language=) on the @mntnr page.
+
+#### Can I haz stickers?
+
+<img src="stickers.jpg" title="stickers" width="300" />
+
+Yes! Send us an email or open an issue with your name and address, and we'll send a few out to you.
 
 ## Code of Conduct
 
