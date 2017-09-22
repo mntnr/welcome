@@ -12,9 +12,13 @@ Join our [Slack Group](https://mntnr.slack.com/shared_invite/MTcxMDc5MTcxMjA1LTE
 
 ## Common Questions
 
-- Why is everything licensed by Burnt Fen Creative LLC?
+#### Why is everything licensed by Burnt Fen Creative LLC?
 
 That is [@RichardLitt](https://github.com/RichardLitt)'s shell company he uses for consulting services. Maintainer Mountaineer aims to some day be its own business, but for now, for licensing and invoicing purposes, Burnt Fen Creative is used. 
+
+#### Why are there so many forks?
+
+Maintainer.io policy is to fork repositories when we do public code and repository audits. If we have a fork here, that means we were contacted about auditing a repository. For Maintainer source repositories, you can see [this filter](https://github.com/mntnr?utf8=%E2%9C%93&q=&type=source&language=) on the @mntnr page.
 
 ## Resources
 
